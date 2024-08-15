@@ -1,0 +1,19 @@
+{
+  "name": "fcounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/main.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamBalDoor/FCounter.git"
+  },
+  "author": "DamBalDoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamBalDoor/FCounter/issues"
+  },
+  "homepage": "https://github.com/DamBalDoor/FCounter#readme"
+}
